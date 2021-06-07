@@ -1,2 +1,2 @@
-# Java_Projeto_utilizando_Spring_Boot
+# Projeto java utilizando Spring Boot
 Projeto java desenvolvido com SpringBoot
