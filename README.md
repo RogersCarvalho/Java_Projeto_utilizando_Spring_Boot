@@ -1,4 +1,4 @@
-# Projeto Web Service em java
+# Projeto Web Service em Java
 Nesse projeto é construido uma aplicação web service com SpringBoot, jpa/Hibernate. 
 É usado o Apache Tomcat para executar a aplicação, o banco de dados H2 para testes e o 
 PostgreSQL para produção. É realizando um CRUD completo e tratamento de exceções. 
